@@ -1,0 +1,13 @@
+12
+add,ax,1
+store,ax,1
+add,bx,2
+store,bx,2
+load,ax,1
+load,bx,2
+add,ax,bx
+store,ax,3
+add,ax,6
+store,ax,8
+sub,ax,3
+store,ax,9
